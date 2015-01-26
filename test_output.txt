@@ -1,0 +1,12 @@
+Q1 --  Distinct Counts:  fullnames: 48432, lastnames: 468, firstnames: 3007
+
+Q2 -- 10 most frequent lastnames (and counts): [('Barton', 143), ('Lang', 136), ('Ortiz', 135), ('Hilll', 134), ('Hills', 130), ('Terry', 129), ('Becker', 128), ('Johns', 128), ('Romaguera', 128), ('Crist', 127)]
+ 
+Q3 --  10 most frequent firstnames (and counts): [('Tara', 32), ('Stephania', 31), ('Andreanne', 31), ('Keon', 31), ('Kaycee', 30), ('Madyson', 29), ('Kayley', 29), ('Heath', 29), ('Baron', 29), ('Charlotte', 29)]
+
+
+Q4 -- Modified names:
+
+   *** initial (unrandomized+unique) list of 25 names: ['Hills, Samanta', 'Fisher, Elmo', 'Runolfsdottir, Roy', 'Dickinson, Sonya', 'Hoppe, Stanley', 'Marvin, Garfield', 'Lang, Agustina', 'Stoltenberg, Donna', 'McLaughlin, Mariah', 'Cartwright, Nicolas', 'Graham, Mckenna', 'Kunze, Gertrude', 'Tillman, Madison', 'Stanton, Davin', 'Rogahn, Colby', 'Ortiz, Anita', 'Shanahan, Bethel', 'Bahringer, Lennie', 'Lynch, Norma', 'Koch, Berry', 'Tromp, Ryley', 'McGlynn, Thad', 'Bradtke, Nikko', 'Lehner, Matilde', 'Adams, Luis'] 
+
+   *** final (randomized+unique) modified list of 25 names: ['Dickinson, Ryley', 'Koch, Matilde', 'Fisher, Garfield', 'Stoltenberg, Mckenna', 'Marvin, Lennie', 'Marvin, Berry', 'Adams, Ryley', 'Ortiz, Thad', 'Bahringer, Thad', 'Bradtke, Bethel', 'Koch, Davin', 'Cartwright, Samanta', 'Stanton, Nicolas', 'Lynch, Roy', 'Adams, Donna', 'Adams, Berry', 'Lang, Roy', 'Tromp, Garfield', 'McLaughlin, Elmo', 'Bahringer, Gertrude', 'Hills, Berry', 'Kunze, Norma', 'Bradtke, Lennie', 'Marvin, Gertrude', 'Bahringer, Nicolas']
